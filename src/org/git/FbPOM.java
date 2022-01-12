@@ -21,6 +21,9 @@ public class FbPOM extends BaseClass{
 	WebElement btn = p.getLoginBtn();
 	btn.click();
 	
+	WebElement loginBtn = p.getLoginBtn();
+	loginBtn.Click();
+	
 	}
 
 }
