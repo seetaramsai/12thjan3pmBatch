@@ -118,7 +118,12 @@ public class BaseClass {
 		System.out.println("ramsai updated to his project");
 		System.out.println("ramsai pushed second time");
 	}
-	
+private void closechrome() {
+	driver.quit();
+		}
+		private void seeta() {
+System.out.println("i have added my code and pushed ");
+		}
 	}
 	
 
