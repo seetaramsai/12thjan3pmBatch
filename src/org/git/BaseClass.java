@@ -114,7 +114,9 @@ public class BaseClass {
 		return value;
 		}
 		
-	
+	public void ramsai() {
+		System.out.println("ramsai updated to his project");
+	}
 	
 	}
 	
