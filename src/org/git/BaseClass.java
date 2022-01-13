@@ -113,7 +113,12 @@ public class BaseClass {
 		}
 		return value;
 		}
-		
+		private void closechrome() {
+driver.quit();
+		}
+		private void seeta() {
+System.out.println("i have added my code and pushed ");
+		}
 	
 	
 	}
